@@ -11,7 +11,7 @@
 - TADAA is a discord bot who allow you to create custom giveaways with server or role requirement.  [(Click to view)](https://github.com/Ezzud/tadaa)
 - Fun discord bot with cool voice commands reproducing some jojo stands.  [(Click to view)](https://github.com/Ezzud/jojo-commands)
 - Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
-- Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. Editable messages!
+- Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
 - Other of my projects are private. 😔
 
 
