@@ -25,12 +25,14 @@
 
 
 ## 📈 Statistics 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzud&label=Profile%20views&color=4B18B8&style=flat" alt="ezzud" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=radical" alt="ezzud" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ezzud&label=PROFILE+VIEWS&color=4B18B8&style=square" alt="ezzud" /> </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzud&theme=radical" alt="ezzud" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=radical" alt="ezzud" /></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## ✉️ Contacts
 <p align="left">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge">  <img alt="Discord" src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge">  
+<img alt="Discord" src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord">
