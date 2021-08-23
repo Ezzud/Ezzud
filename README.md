@@ -25,6 +25,7 @@
 
 
 ## 📈 Statistics 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzud&label=Profile%20views&color=4B18B8&style=flat" alt="ezzud" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=radical" alt="ezzud" /></p>
 
