@@ -8,15 +8,15 @@
 
 ## 📕 Projects
 
-- TADAA is a discord bot who allow you to create custom giveaways with server or role requirement.  [(Click to view)](https://github.com/Ezzud/tadaa)
-- Fun discord bot with cool voice commands reproducing some jojo stands.  [(Click to view)](https://github.com/Ezzud/jojo-commands)
-- Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
-- Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
+- <a href="https://github.com/Ezzud/tadaa"><img src="https://ezzud.fr/portfolio/attachments/bots/tadaa.png" width="15px" height="15px"/></a> TADAA is a discord bot who allow you to create custom giveaways with server or role requirement.  [(Click to view)](https://github.com/Ezzud/tadaa)
+- <a href="https://github.com/Ezzud/jojo-commands"><img src="https://ezzud.fr/portfolio/attachments/bots/jojo.png" width="15px" height="15px"/></a> Fun discord bot with cool voice commands reproducing some jojo stands.  [(Click to view)](https://github.com/Ezzud/jojo-commands)
+- <a href="https://github.com/Ezzud/los-launcher"><img src="https://ezzud.fr/portfolio/attachments/other/los.png" width="15px" height="15px"/></a> Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
+- <a href="https://github.com/Ezzud/instify"><img src="https://ezzud.fr/portfolio/attachments/other/instify.png" width="15px" height="15px"/></a> Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
 - Other of my projects are private. 😔
 
 
 ## ⌨ Languages
-<img src="https://www.flaticon.com/svg/static/icons/svg/2393/2393313.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" width="45px" height="45px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="45px" height="45px" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="45px" height="45px" /> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45px" height="45px" />
 
 
 ## ⚙️ Softwares
