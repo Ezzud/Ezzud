@@ -12,6 +12,7 @@
 - <a href="https://github.com/Ezzud/jojo-commands"><img src="https://ezzud.fr/portfolio/attachments/bots/jojo.png" width="15px" height="15px"/></a> Fun discord bot with cool voice commands reproducing some jojo stands.  [(Click to view)](https://github.com/Ezzud/jojo-commands)
 - <a href="https://github.com/Ezzud/los-launcher"><img src="https://ezzud.fr/portfolio/attachments/other/los.png" width="15px" height="15px"/></a> Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
 - <a href="https://github.com/Ezzud/instify"><img src="https://ezzud.fr/portfolio/attachments/other/instify.png" width="15px" height="15px"/></a> Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
+- <a href="https://github.com/Ezzud/manhuntplus"><img src="https://ezzud.fr/portfolio/attachments/other/manhuntplus.png" width="15px" height="15px"/></a> Manhunt Plus is a minecraft plugin who allow you to make Dream's manhunt with other cool features like Teams/Guards/Private Chat/Effects. [(Click to view)](https://github.com/Ezzud/manhuntplus)
 - Other of my projects are private. 😔
 
 
