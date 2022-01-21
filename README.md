@@ -2,8 +2,9 @@
 <h3 align="center">a French student and developer</h3>
 
 - 💻 I’m learning **Java** & **Javascript**
-- 💼 I’m currently working on my website: <a target="blank" href="https://ezzud.fr">**ezzud.fr**</a>
-- 📨 Contact me on discord **ezzud#0001**
+- 💼 I’m currently working on: <a target="blank" href="https://scamprotect.xyz/en/">**ScamProtect**</a>
+- 🕸 Portfolio: https://ezzud.fr
+- 📨 You can contact me on discord **ezzud#0001**
 
 
 ## 📕 Projects
