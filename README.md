@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Ezzud</h1>
-<h3 align="center">a French student and developer</h3>
+<h3 align="center">French student and developer</h3>
 
-- 💻 I’m learning **Java** & **Javascript**
-- 💼 I’m currently working on: <a target="blank" href="https://scamprotect.xyz/en/">**ScamProtect**</a>
+- 💻 Amateur Developer on **Java** & **Javascript/NodeJS**
+- 💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**ScamProtect**</a>
 - 🕸 Portfolio: https://ezzud.fr
 - 📨 You can contact me on discord **ezzud#0001**
 
@@ -38,5 +38,5 @@
 
 ## ✉️ Contacts
 <p align="left">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge">  
-<img alt="Discord" src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord">
+<a href="https://twitter.com/ezzud_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge"> </a> 
+<a href="https://discord.gg/ezzud"><img alt="Discord"  src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord"></a>
