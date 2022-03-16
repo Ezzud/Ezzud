@@ -14,17 +14,12 @@
 - <a href="https://github.com/Ezzud/los-launcher"><img src="https://ezzud.fr/portfolio/attachments/other/los.png" width="15px" height="15px"/></a> Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
 - <a href="https://github.com/Ezzud/instify"><img src="https://ezzud.fr/portfolio/attachments/other/instify.png" width="15px" height="15px"/></a> Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
 - <a href="https://github.com/Ezzud/manhuntplus"><img src="https://ezzud.fr/portfolio/attachments/other/manhuntplus.png" width="15px" height="15px"/></a> Manhunt Plus is a minecraft plugin who allow you to make Dream's manhunt with other cool features like Teams/Guards/Private Chat/Effects. [(Click to view)](https://github.com/Ezzud/manhuntplus)
+- <a href="https://scamprotect.xyz"><img src="https://ezzud.fr/portfolio/attachments/bots/scamprotect.png" width="15px" height="15px"/></a> Scamprotect is a security discord bot protecting your discord server from scam/virus/tokengrabber/ipgrabber/phishing and other malicious links. With a huge database of 24k links and a AI System who detect discord scam links [(Click to view)](https://scamprotect.xyz)
 - Other of my projects are private. 😔
 
 
 ## ⌨ Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="45px" height="45px" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="45px" height="45px" /> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45px" height="45px" />
-
-
-## ⚙️ Softwares
-
-<img src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png" width="50px" height="50px" /><img src="https://ezzud.tk/portfolio/attachments/softwares/eclipse.png" width="50px" height="50px" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="80px" height="80px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80px" height="80px" /> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="80px" height="80px" /> <img src="http://pngimg.com/uploads/php/php_PNG25.png" width="80px" height="80px" />
 
 ## 📈 Statistics 
 
@@ -40,3 +35,4 @@
 <p align="left">
 <a href="https://twitter.com/ezzud_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge"> </a> 
 <a href="https://discord.gg/ezzud"><img alt="Discord"  src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord"></a>
+<a href="https://instagram.com/ezzud_dev"><img alt="Discord"  src="https://img.shields.io/badge/INSTAGRAM-ezzud_dev-%23E03DEA?style=for-the-badge&logo=instagram"></a>
