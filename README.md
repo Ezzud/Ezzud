@@ -1,34 +1,44 @@
 <h1 align="center">Hello! I'm Ezzud</h1>
 <h3 align="center">French student and developer</h3>
+<br/><br/>
 
-- 💻 Amateur Developer on **Java** & **Javascript/NodeJS**
-- 💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**ScamProtect**</a>
-- 🕸 Portfolio: https://ezzud.fr
-- 📨 You can contact me on discord **ezzud#0001**
+💻 Amateur Developer on <strong>Java</strong> & <strong>Javascript/NodeJS</strong>
 
+💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**Scamprotect**</a>
 
+🕸 Portfolio: <a href="https://ezzud.fr">ezzud.fr</a>
+
+📨 Discord: **ezzud#0001**
+
+<br/><br/>
 ## 📕 Projects
 
-- <a href="https://github.com/Ezzud/tadaa"><img src="https://ezzud.fr/portfolio/attachments/bots/tadaa.png" width="15px" height="15px"/></a> TADAA is a discord bot who allow you to create custom giveaways with server or role requirement.  [(Click to view)](https://github.com/Ezzud/tadaa)
-- <a href="https://github.com/Ezzud/jojo-commands"><img src="https://ezzud.fr/portfolio/attachments/bots/jojo.png" width="15px" height="15px"/></a> Fun discord bot with cool voice commands reproducing some jojo stands.  [(Click to view)](https://github.com/Ezzud/jojo-commands)
-- <a href="https://github.com/Ezzud/los-launcher"><img src="https://ezzud.fr/portfolio/attachments/other/los.png" width="15px" height="15px"/></a> Custom launcher for my minecraft modded server: Legend Of Sideria! Uses openlauncherlib, openauth, s-update and swinger libraries. Auto-update launcher JAR and auto-update appdata. [(Click to view)](https://github.com/Ezzud/los-launcher)
-- <a href="https://github.com/Ezzud/instify"><img src="https://ezzud.fr/portfolio/attachments/other/instify.png" width="15px" height="15px"/></a> Instify is a program who use Instagram and Spotify API to display the current listening track on your instagram bio. [(Click to view)](https://github.com/Ezzud/instify)
-- <a href="https://github.com/Ezzud/manhuntplus"><img src="https://ezzud.fr/portfolio/attachments/other/manhuntplus.png" width="15px" height="15px"/></a> Manhunt Plus is a minecraft plugin who allow you to make Dream's manhunt with other cool features like Teams/Guards/Private Chat/Effects. [(Click to view)](https://github.com/Ezzud/manhuntplus)
-- <a href="https://scamprotect.xyz"><img src="https://ezzud.fr/portfolio/attachments/bots/scamprotect.png" width="15px" height="15px"/></a> Scamprotect is a security discord bot protecting your discord server from scam/virus/tokengrabber/ipgrabber/phishing and other malicious links. With a huge database of 24k links and a AI System who detect discord scam links [(Click to view)](https://scamprotect.xyz)
+
+<br/><br/>
+
+
+<a href="https://github.com/Ezzud/tadaa"><img src="https://ezzud.fr/portfolio/attachments/bots/tadaa.png" width="15px" height="15px"/> <strong>TADAA</strong></a> is a discord bot who allow you to create custom giveaways with server or role requirement. (JS)
+<br/><br/>
+<a href="https://scamprotect.xyz"><img src="https://ezzud.fr/portfolio/attachments/bots/scamprotect.png" width="15px" height="15px"/> <strong>SCAMPROTECT</strong></a> is a security discord bot protecting your discord server from scam/virus/tokengrabber/ipgrabber/phishing and other malicious links. With a huge database of 24k links and a Data-based AI System (JS)
+<br/><br/>
+<a href="https://github.com/Ezzud/minecraftlauncher-template"><img src="https://github.com/Ezzud/minecraftlauncher-template/raw/main/launcher/src/fr/ezzud/defaultlauncher/resources/icon.png" width="15px" height="15px"/> <strong>ML TEMPLATE</strong></a> is a Custom Template for creating your own Vanilla/Modded Minecraft launcher, with a Auto-Update & Microsoft Auth Function (Java)
+<br/><br/>
 - Other of my projects are private. 😔
+
+
+<br/><br/>
 
 
 ## ⌨ Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="80px" height="80px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80px" height="80px" /> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="80px" height="80px" /> <img src="http://pngimg.com/uploads/php/php_PNG25.png" width="80px" height="80px" />
-
+<br/><br/><br/>
 ## 📈 Statistics 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ezzud&label=PROFILE+VIEWS&color=4B18B8&style=square" alt="ezzud" /> </p>
+<pre align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Ezzud&theme=tokyonight" alt="trophies" /></pre>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ezzud&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<pre><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=tokyonight" alt="ezzud" />                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ezzud&amp;show_icons=true&amp;theme=tokyonight" alt="ezzud" /></pre>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezzud&theme=radical" alt="ezzud" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=radical" alt="ezzud" /></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## ✉️ Contacts
