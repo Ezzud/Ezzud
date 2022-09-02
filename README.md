@@ -37,7 +37,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ezzud&label=PROFILE+VIEWS&color=4B18B8&style=square" alt="ezzud" /> </p>
 <pre align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Ezzud&theme=tokyonight" alt="trophies" /></pre>
 
-<pre><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=tokyonight" alt="ezzud" />                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ezzud&amp;show_icons=true&amp;theme=tokyonight" alt="ezzud" /></pre>
+<pre><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=tokyonight" alt="ezzud" />         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ezzud&amp;show_icons=true&amp;theme=tokyonight" alt="ezzud" /></pre>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
