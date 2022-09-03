@@ -2,13 +2,10 @@
 <h3 align="center">French student and developer</h3>
 <br/><br/>
 
-💻 Amateur Developer on <strong>Java</strong> & <strong>Javascript/NodeJS</strong>
-
-💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**Scamprotect**</a>
-
-🕸 Portfolio: <a href="https://ezzud.fr">ezzud.fr</a>
-
-📨 Discord: **ezzud#0001**
+💻 Amateur Developer on <strong>Java</strong> & <strong>Javascript/NodeJS</strong><br />
+💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**Scamprotect**</a><br />
+🕸 Portfolio: <a href="https://ezzud.fr">ezzud.fr</a><br />
+📨 Discord: **ezzud#0001**<br />
 
 <br/><br/>
 ## 📕 Projects
