@@ -35,11 +35,11 @@
 <pre align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Ezzud&theme=tokyonight" alt="trophies" /></pre>
 
 <pre><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=tokyonight" alt="ezzud" />         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ezzud&amp;show_icons=true&amp;theme=tokyonight" alt="ezzud" /></pre>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## ✉️ Contacts
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ezzud_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge"> </a> 
 <a href="https://discord.gg/ezzud"><img alt="Discord"  src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord"></a>
 <a href="https://instagram.com/ezzud_dev"><img alt="Discord"  src="https://img.shields.io/badge/INSTAGRAM-ezzud_dev-%23E03DEA?style=for-the-badge&logo=instagram"></a>
