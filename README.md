@@ -1,45 +1,109 @@
-<h1 align="center">Hello! I'm Ezzud</h1>
-<h3 align="center">French student and developer</h3>
-<br/><br/>
+<div align="center">
+<h1 align="center">Hello <img width="35" src="https://github.com/Ezzud/Ezzud/blob/main/resources/img/waving.gif">, I'm Ezzud</h1>
+<h4 align="center">a freelance developer an also an computer science student in France </h4>
+</div>
 
-💻 Amateur Developer on <strong>Java</strong> & <strong>Javascript/NodeJS</strong><br />
-💼 Currently working on <a target="blank" href="https://scamprotect.xyz/en/">**Scamprotect**</a><br />
-🕸 Portfolio: <a href="https://ezzud.fr">ezzud.fr</a><br />
-📨 Discord: **ezzud#0001**<br />
+<div align="center">
+  <a href="https://Ezzud.github.io/Ezzud/">
+  <img  src="https://github.com/Ezzud/Ezzud/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<br/><br/>
-## 📕 Projects
+-----
 
+<details open>
+  <summary>🧮 ABOUT</summary>
+<div>
+<samp>
+<h2 align="center">Account</h2>
+ <p align="center">
+  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" /></a>
+  <a href="https://ezzud.fr/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fezzud.fr" height="25"
+     alt="website" /></a>
+  </p>
+ <p align="center">
+  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+     src="https://img.shields.io/github/license/Ezzud/Ezzud?color=purple&style=for-the-badge" height="25"
+     alt="license" /></a>
+ </p>
+ </samp>
+</div>
+</details>
+  
+<details open> 
+  <summary>💻 PROFILE STATS</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/Ezzud/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+          alt="Ezzud - Top Languages" /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/Ezzud/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
+          alt="Ezzud - Top Languages/repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
+          alt="Ezzud :: Top Languages/commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>Statistics</h3></summary>
+        <p align="center">
+          <a href="https://github.com/Ezzud/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ezzud&show_icons=true&theme=tokyonight&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezzud&theme=tokyonight&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
 
-<br/><br/>
+<details open>
+  <summary>📈 ACTIVITY</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> Contributions </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
+<br/>
+  </samp>
+  </details>
+<br/>
+</details> 
 
+<details open>
+  <summary>☎️ CONTACT</summary>
+<div>
+  <samp>
+    <h2 align="center">Contact me:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://ezzud.fr/discord" target="blank"><img align="center"
+         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="ezzud" height="30"/></a>
+      <a href="mailto:contact@ezzud.fr" target="blank"><img align="center"
+         src="https://img.shields.io/badge/mail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="ezzud" height="30"/></a>
+      <a href="https://instagram.com/ezzud_dev" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="ezzud_dev" height="30"/></a>
+      <a href="https://twitter.com/ezzud_" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="ezzud_" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
-<a href="https://github.com/Ezzud/tadaa"><img src="https://ezzud.fr/portfolio/attachments/bots/tadaa.png" width="15px" height="15px"/> <strong>TADAA</strong></a> is a discord bot who allow you to create custom giveaways with server or role requirement. (JS)
-<br/><br/>
-<a href="https://scamprotect.xyz"><img src="https://ezzud.fr/portfolio/attachments/bots/scamprotect.png" width="15px" height="15px"/> <strong>SCAMPROTECT</strong></a> is a security discord bot protecting your discord server from scam/virus/tokengrabber/ipgrabber/phishing and other malicious links. With a huge database of 24k links and a Data-based AI System (JS)
-<br/><br/>
-<a href="https://github.com/Ezzud/minecraftlauncher-template"><img src="https://github.com/Ezzud/minecraftlauncher-template/raw/main/launcher/src/fr/ezzud/defaultlauncher/resources/icon.png" width="15px" height="15px"/> <strong>ML TEMPLATE</strong></a> is a Custom Template for creating your own Vanilla/Modded Minecraft launcher, with a Auto-Update & Microsoft Auth Function (Java)
-<br/><br/>
-- Other of my projects are private. 😔
-
-
-<br/><br/>
-
-
-## ⌨ Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="80px" height="80px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80px" height="80px" /> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="80px" height="80px" /> <img src="http://pngimg.com/uploads/php/php_PNG25.png" width="80px" height="80px" />
-<br/><br/><br/>
-## 📈 Statistics 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ezzud&label=PROFILE+VIEWS&color=4B18B8&style=square" alt="ezzud" /> </p>
-<pre align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Ezzud&theme=tokyonight" alt="trophies" /></pre>
-
-<pre><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzud&theme=tokyonight" alt="ezzud" />         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ezzud&amp;show_icons=true&amp;theme=tokyonight" alt="ezzud" /></pre>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ezzud&bg_color=333a9e&color=ffffff&line=5350fb&point=52fcff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-## ✉️ Contacts
-<p align="center">
-<a href="https://twitter.com/ezzud_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ezzud_?color=%231DA1F2&logo=twitter&style=for-the-badge"> </a> 
-<a href="https://discord.gg/ezzud"><img alt="Discord"  src="https://img.shields.io/badge/DISCORD-ezzud%230001-%237289DA?style=for-the-badge&logo=discord"></a>
-<a href="https://instagram.com/ezzud_dev"><img alt="Discord"  src="https://img.shields.io/badge/INSTAGRAM-ezzud_dev-%23E03DEA?style=for-the-badge&logo=instagram"></a>
+-----
