@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/Ezzud/Ezzud/blob/main/resources/img/waving.gif">, I'm Ezzud</h1>
+<h1 align="center">Hello <img width="35" src="https://github.com/Ezzud/Ezzud/blob/main/waving.gif">, I'm Ezzud</h1>
 <h4 align="center">a freelance developer an also an computer science student in France </h4>
 </div>
 
 <div align="center">
   <a href="https://Ezzud.github.io/Ezzud/">
-  <img  src="https://github.com/Ezzud/Ezzud/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Ezzud/Ezzud/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
