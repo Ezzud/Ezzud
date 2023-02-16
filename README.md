@@ -10,9 +10,7 @@
 </div>
 
 -----
-
-<details open>
-  <summary>🧮 ABOUT</summary>
+<br /><br /><br />
 <div>
 <samp>
 <h2 align="center">Account</h2>
@@ -31,16 +29,11 @@
  </p>
  </samp>
 </div>
-</details>
-  
-<details open> 
-  <summary>💻 PROFILE STATS</summary>
+  <br /><br /><br />
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/Ezzud/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
@@ -54,9 +47,6 @@
           alt="Ezzud :: Top Languages/commit" />
           </a>
         </p>
-</details>
-    <details open>
-  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/Ezzud/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ezzud&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -66,10 +56,6 @@
      <br>
      </samp>
   </div>    
-</details>
-
-<details open>
-  <summary>📈 ACTIVITY</summary>
   <samp>
   <br/>
   <h2 align="center"> Contributions </h2>
@@ -77,12 +63,8 @@
   <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
-  </details>
 <br/>
-</details> 
 
-<details open>
-  <summary>☎️ CONTACT</summary>
 <div>
   <samp>
     <h2 align="center">Contact me:</h2>
@@ -104,6 +86,5 @@
     </p>
   </samp>
 </div>
-</details>
 
 -----
