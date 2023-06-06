@@ -18,14 +18,21 @@
   <a href="https://github.com/Ezzud" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://ezzud.fr/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fezzud.fr" height="25"
-     alt="website" /></a>
+  <a href="https://discord.ezzud.fr" target="blank"><img align="center" 
+     src="https://img.shields.io/discord/656744068134469633?color=007ec6&label=SUPPORT&style=for-the-badge" height="25"
+     alt="views count" /></a>
   </p>
  <p align="center">
-  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/Ezzud/Ezzud?color=purple&style=for-the-badge" height="25"
-     alt="license" /></a>
+  <a href="https://ezzud.fr/"><img align="center" 
+     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUD.FR&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzud.fr" height="25"
+     alt="website" /></a>
+  <a href="https://scamprotect.xyz/"><img align="center" 
+     src="https://img.shields.io/website?down_message=OFFLINE&label=SCAMPROTECT.XYZ&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fscamprotect.xyz" height="25"
+     alt="website" /></a>
+  <a href="https://ezzudpanel.eu/"><img align="center" 
+     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUDPANEL.EU&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzudpanel.eu" height="25"
+     alt="website" /></a>
+  </p>
  </p>
  </samp>
 </div>
@@ -59,8 +66,8 @@
   <samp>
   <br/>
   <h2 align="center"> Contributions </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
+<a href="https://github-readme-activity-graph.vercel.app">
+  <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
 <br/>
   </samp>
 <br/>
@@ -70,7 +77,7 @@
     <h2 align="center">Contact me:</h2>
     <p align="center">
       <br/>
-      <a href="https://ezzud.fr/discord" target="blank"><img align="center"
+      <a href="https://discord.ezzud.fr" target="blank"><img align="center"
          src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
          alt="ezzud" height="30"/></a>
       <a href="mailto:contact@ezzud.fr" target="blank"><img align="center"
