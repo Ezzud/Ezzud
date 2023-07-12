@@ -29,9 +29,6 @@
   <a href="https://scamprotect.xyz/"><img align="center" 
      src="https://img.shields.io/website?down_message=OFFLINE&label=SCAMPROTECT.XYZ&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fscamprotect.xyz" height="25"
      alt="website" /></a>
-  <a href="https://ezzudpanel.eu/"><img align="center" 
-     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUDPANEL.EU&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzudpanel.eu" height="25"
-     alt="website" /></a>
   </p>
  </p>
  </samp>
