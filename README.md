@@ -17,20 +17,33 @@
  <p align="center">
   <a href="https://github.com/Ezzud" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
+     alt="views count" />
+  </a>
   <a href="https://discord.ezzud.fr" target="blank"><img align="center" 
      src="https://img.shields.io/discord/656744068134469633?color=007ec6&label=SUPPORT&style=for-the-badge" height="25"
-     alt="views count" /></a>
-  </p>
+     alt="views count" />
+  </a>
+</p>
  <p align="center">
   <a href="https://ezzud.fr/"><img align="center" 
      src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUD.FR&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzud.fr" height="25"
-     alt="website" /></a>
+     alt="website" />
+  </a>
   <a href="https://scamprotect.xyz/"><img align="center" 
      src="https://img.shields.io/website?down_message=OFFLINE&label=SCAMPROTECT.XYZ&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fscamprotect.xyz" height="25"
-     alt="website" /></a>
-  </p>
+     alt="website" />
+  </a>
  </p>
+<p align="center">
+  <a href="https://discord.scamprotect.xyz" target="blank"><img align="center" 
+     src="https://img.shields.io/discord/1044220419164602409?color=F3941A&label=SCAMPROTECT SUPPORT&style=for-the-badge" height="25"
+     alt="views count" />
+  </a>
+  <a href="https://discord.gg/palito" target="blank"><img align="center" 
+     src="https://img.shields.io/discord/830813896079441950?color=F3941A&label=ADMINISTRATION&style=for-the-badge" height="25"
+     alt="views count" />
+  </a>
+</p>
  </samp>
 </div>
   <br /><br /><br />
