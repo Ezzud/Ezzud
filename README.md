@@ -39,10 +39,6 @@
      src="https://img.shields.io/discord/1044220419164602409?color=F3941A&label=SCAMPROTECT SUPPORT&style=for-the-badge" height="25"
      alt="views count" />
   </a>
-  <a href="https://discord.gg/palito" target="blank"><img align="center" 
-     src="https://img.shields.io/discord/830813896079441950?color=F3941A&label=ADMINISTRATION&style=for-the-badge" height="25"
-     alt="views count" />
-  </a>
 </p>
  </samp>
 </div>
