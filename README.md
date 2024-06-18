@@ -14,31 +14,40 @@
 <div>
 <samp>
 <h2 align="center">Account</h2>
- <p align="center">
-  <a href="https://github.com/Ezzud" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" />
-  </a>
-  <a href="https://discord.ezzud.fr" target="blank"><img align="center" 
-     src="https://img.shields.io/discord/656744068134469633?color=007ec6&label=SUPPORT&style=for-the-badge" height="25"
-     alt="views count" />
-  </a>
-</p>
- <p align="center">
-  <a href="https://ezzud.fr/"><img align="center" 
-     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUD.FR&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzud.fr" height="25"
-     alt="website" />
-  </a>
-  <a href="https://scamprotect.xyz/"><img align="center" 
+  <p align="center">
+    <a href="https://scamprotect.xyz/"><img align="center" 
      src="https://img.shields.io/website?down_message=OFFLINE&label=SCAMPROTECT.XYZ&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fscamprotect.xyz" height="25"
      alt="website" />
   </a>
- </p>
-<p align="center">
-  <a href="https://discord.scamprotect.xyz" target="blank"><img align="center" 
-     src="https://img.shields.io/discord/1044220419164602409?color=F3941A&label=SCAMPROTECT SUPPORT&style=for-the-badge" height="25"
+    <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+     src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" />
   </a>
+    <a href="https://ezzud.fr/"><img align="center" 
+     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUD.FR&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzud.fr" height="25"
+     alt="website" />
+  </a>
+  </p>
+  <!--
+  <p align="center">
+    <a href="https://scamprotect.xyz/support" target="blank">
+     <img  align="center" 
+           src="https://widgets.vendicated.dev/user?id=638773138712428575&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true"
+           alt="Discord Profile" />
+    </a>
+  </p>
+  -->
+ <p align="center">
+   <a href="https://scamprotect.xyz/support" target="blank">
+     <img  align="center" 
+           src="http://invidget.switchblade.xyz/6xVfcRjeTt"
+           alt="Scamprotect Support" />
+    </a>
+  <a href="https://scamprotect.xyz/support" target="blank">
+     <img  align="center" 
+           src="http://invidget.switchblade.xyz/656744068134469633"
+           alt="Ezzud Discord" />
+    </a>
 </p>
  </samp>
 </div>
