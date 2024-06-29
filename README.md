@@ -43,14 +43,12 @@
            src="http://invidget.switchblade.xyz/6xVfcRjeTt"
            alt="Scamprotect Support" />
     </a>
-</p>
-  <p align="center">
     <a href="https://scamprotect.xyz/support" target="blank">
      <img  align="center" 
            src="http://invidget.switchblade.xyz/656744068134469633"
            alt="Ezzud Discord" />
     </a>
-  </p>
+</p>
  </samp>
 </div>
   <br /><br /><br />
@@ -58,17 +56,17 @@
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
-            <p align="center">
-        <a href="https://github.com/Ezzud/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
-          alt="Ezzud - Top Languages" /></a>
-      </p>
+        <p align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=Ezzud&theme=nord&row=1" />
+        </p>
         <p align="center">
           <a href="https://github.com/Ezzud/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
-          alt="Ezzud - Top Languages/repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
-          alt="Ezzud :: Top Languages/commit" />
+            <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
+            alt="Ezzud - Top Languages/repo" />
+            <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
+            alt="Ezzud - Top Languages/commit" />
+            <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+            alt="Ezzud - Top Languages" />
           </a>
         </p>
         <p align="center">
