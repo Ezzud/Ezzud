@@ -43,13 +43,14 @@
            src="http://invidget.switchblade.xyz/6xVfcRjeTt"
            alt="Scamprotect Support" />
     </a>
+     <br><br>
     <a href="https://scamprotect.xyz/support" target="blank">
      <img  align="center" 
            src="http://invidget.switchblade.xyz/656744068134469633"
            alt="Ezzud Discord" />
     </a>
 </p>
- </samp>
+</samp>
 </div>
   <br /><br /><br />
   <div>
