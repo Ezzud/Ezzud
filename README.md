@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/Ezzud/Ezzud/blob/main/waving.gif">, I'm Ezzud</h1>
-<h4 align="center">a freelance developer an also an computer science student in France </h4>
+<h4 align="center">a freelance developer and also a computer science student in France </h4>
 </div>
 
 <div align="center">
