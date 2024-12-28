@@ -28,27 +28,14 @@
      alt="website" />
   </a>
   </p>
-  <!--
-  <p align="center">
-    <a href="https://scamprotect.xyz/support" target="blank">
-     <img  align="center" 
-           src="https://widgets.vendicated.dev/user?id=638773138712428575&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true"
-           alt="Discord Profile" />
-    </a>
-  </p>
-  -->
  <p align="center">
-   <a href="https://scamprotect.xyz/support" target="blank">
+   <a href="https://github.com/Ezzud/github-readme-discord-card" target="blank">
      <img  align="center" 
-           src="http://invidget.switchblade.xyz/6xVfcRjeTt"
-           alt="Scamprotect Support" />
+           src="https://discord-readme-card.ezzud.fr/?userid=638773138712428575"
+           alt="Discord Profile Card" />
     </a>
-     <br><br>
-    <a href="https://scamprotect.xyz/support" target="blank">
-     <img  align="center" 
-           src="http://invidget.switchblade.xyz/656744068134469633"
-           alt="Ezzud Discord" />
-    </a>
+   <br>
+     Try <a href="https://github.com/Ezzud/github-readme-discord-card" target="_blank">Github Readme Discord Card</a> (<a href="https://discord-readme-card.ezzud.fr/" target="_blank">Root URL</a>)
 </p>
 </samp>
 </div>
