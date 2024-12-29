@@ -31,7 +31,7 @@
  <p align="center">
    <a href="https://github.com/Ezzud/github-readme-discord-card" target="blank">
      <img  align="center" 
-           src="https://discord-readme-card.ezzud.fr/?userid=638773138712428575"
+           src="https://discord-readme-card.ezzud.fr/?userid=638773138712428575&v=2"
            alt="Discord Profile Card" />
     </a>
    <br>
