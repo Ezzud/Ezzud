@@ -1,46 +1,36 @@
 <div align="center">
-<h1 align="center">Hello <img width="35" src="https://github.com/Ezzud/Ezzud/blob/main/waving.gif">, I'm Ezzud</h1>
-<h4 align="center">a freelance developer and also a computer science student in France </h4>
+<img width="100%" src="https://github.com/Ezzud/Ezzud/blob/main/hello-card.png" />
 </div>
 
-<div align="center">
-  <a href="https://Ezzud.github.io/Ezzud/">
-  <img  src="https://github.com/Ezzud/Ezzud/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+---
 
------
 <br /><br /><br />
 <div>
-<samp>
-<h2 align="center">Account</h2>
-  <p align="center">
-    <a href="https://scamprotect.xyz/"><img align="center" 
-     src="https://img.shields.io/website?down_message=OFFLINE&label=SCAMPROTECT.XYZ&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fscamprotect.xyz" height="25"
-     alt="website" />
-  </a>
-    <a href="https://github.com/Ezzud" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" />
-  </a>
-    <a href="https://ezzud.fr/"><img align="center" 
-     src="https://img.shields.io/website?down_message=OFFLINE&label=EZZUD.FR&style=for-the-badge&up_message=ONLINE&url=https%3A%2F%2Fezzud.fr" height="25"
-     alt="website" />
-  </a>
-  </p>
- <p align="center">
-   <a href="https://github.com/Ezzud/github-readme-discord-card" target="blank">
-     <img  align="center" 
+  <samp>
+    <h2 align="center">Projects</h2>
+    <p align="center">
+      <a href="https://scamprotect.xyz" target="_blank">
+        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/card.png" />
+      </a>
+      <a href="https://github.com/Ezzud">
+        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/empty-card.png" />
+      </a>
+    </p>
+    <p align="center">
+       <a href="https://github.com/Ezzud/github-readme-discord-card" target="blank">
+         <img  align="center" 
            src="https://discord-readme-card.ezzud.fr/?userid=638773138712428575&v=2"
            alt="Discord Profile Card" />
-    </a>
-   <br>
-     Try <a href="https://github.com/Ezzud/github-readme-discord-card" target="_blank">Github Readme Discord Card</a> (<a href="https://discord-readme-card.ezzud.fr/" target="_blank">Root URL</a>)
-</p>
-</samp>
+       </a>
+       <br>
+       Try <a href="https://github.com/Ezzud/github-readme-discord-card" target="_blank">Github Readme Discord Card</a>
+    </p>
+  </samp>
 </div>
-  <br /><br /><br />
-  <div>
+
+<br /><br /><br />
+
+<div>
   <samp>
     <h2 align="center"> Github stats </h2>
       <br/>
@@ -63,16 +53,24 @@
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezzud&theme=tokyonight&hide_border=true" />
           </a>
        </p>
+        <p align="center">
+          <a href="https://github.com/Ezzud" target="blank"><img align="center" 
+             src="https://komarev.com/ghpvc/?username=Ezzud&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+             alt="views count" />
+          </a>
+        </p>
      <br>
-     </samp>
-  </div>    
-  <samp>
+  </samp>
+</div>    
+
+<samp>
   <br/>
   <h2 align="center"> Contributions </h2>
-<a href="https://github-readme-activity-graph.vercel.app">
-  <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
+    <a href="https://github-readme-activity-graph.vercel.app">
+    <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
+  <br/>
+</samp>
+
 <br/>
 
 <div>
@@ -89,12 +87,12 @@
       <a href="https://instagram.com/ezzud_dev" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="ezzud_dev" height="30"/></a>
-      <a href="https://twitter.com/ezzud_" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+      <a href="https://x.com/ezzud_" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"
          alt="ezzud_" height="30"/></a>
       <br>
     </p>
   </samp>
 </div>
 
------
+---
