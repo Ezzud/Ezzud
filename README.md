@@ -2,9 +2,6 @@
 <img width="100%" src="https://github.com/Ezzud/Ezzud/blob/main/hello-card.png" />
 </div>
 
----
-
-<br /><br /><br />
 <div>
   <samp>
     <h2 align="center">Projects</h2>
