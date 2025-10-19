@@ -38,16 +38,19 @@
           <a href="https://github.com/Ezzud/">
             <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
             alt="Ezzud - Top Languages/repo" />
+            <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+            alt="Ezzud - Stats" />
             <img width="28%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ezzud&theme=tokyonight&layout=compact&hide_border=true"
             alt="Ezzud - Top Languages/commit" />
-            <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzud&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
-            alt="Ezzud - Top Languages" />
           </a>
         </p>
         <p align="center">
+          <a href="https://github-readme-activity-graph.vercel.app">
+            <img alt="Ezzud's Activity Graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ezzud&theme=tokyonight" />
+          </a>
+          <br><br>
           <a href="https://github.com/Ezzud/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ezzud&show_icons=true&theme=tokyonight&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ezzud&theme=tokyonight&hide_border=true" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezzud&theme=tokyonight&hide_border=true" />
           </a>
        </p>
         <p align="center">
@@ -59,14 +62,6 @@
      <br>
   </samp>
 </div>    
-
-<samp>
-  <br/>
-  <h2 align="center"> Contributions </h2>
-    <a href="https://github-readme-activity-graph.vercel.app">
-    <img alt="Ezzud's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ezzud&bg_color=1a1b27&color=628fda&line=309e94&point=fff&hide_border=true" /></a>
-  <br/>
-</samp>
 
 <br/>
 
