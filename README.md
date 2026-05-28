@@ -7,7 +7,15 @@
     <h2 align="center">Projects</h2>
     <p align="center">
       <a href="https://scamprotect.xyz" target="_blank">
-        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/card.png" />
+        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/scamprotect-card.png" />
+      </a>
+      <a href="https://distu.be">
+        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/distube-card.png" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https:/gamelibrary.ezzud.fr" target="_blank">
+        <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/gamelibrary-card.png" />
       </a>
       <a href="https://github.com/Ezzud">
         <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/empty-card.png" />
