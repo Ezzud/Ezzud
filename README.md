@@ -14,7 +14,7 @@
       </a>
     </p>
     <p align="center">
-      <a href="https:/gamelibrary.ezzud.fr" target="_blank">
+      <a href="https://gamelibrary.ezzud.fr" target="_blank">
         <img width="49.5%" src="https://github.com/Ezzud/Ezzud/blob/main/gamelibrary-card.png" />
       </a>
       <a href="https://github.com/Ezzud">
